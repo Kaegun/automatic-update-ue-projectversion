@@ -1,0 +1,1 @@
+[Automatically Update Version Numbers - Post](https://gamedevtricks.com/post/automagically-updating-ue-app-version/)
